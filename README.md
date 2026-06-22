@@ -20,7 +20,7 @@ An end-to-end classification system and performance evaluation platform engineer
 - **Description:** Designed a machine learning pipeline architecture to ingest skewed financial datasets and extract precise behavioral features indicative of system abuse.
 - **Key Tasks:** Balanced skewed real-world targets using SMOTE oversampling algorithms, deployed tuned Random Forest and Logistic Regression classification models, and validated operational success tracking Precision-Recall Curves (PR-AUC) rather than deceptive baseline accuracy metrics.
 - **Tech Stack:** Python, Scikit-Learn, Imbalanced-Learn (SMOTE), Pandas, NumPy, Jupyter Ecosystem, Git
-- **Links:** [GitHub Repository](https://github.com)
+- **Links:**https://e--commerce-fraud-detection-pipeline-md85njeqpuce9zmbznafhn.streamlit.app/
 
 
 ### Exploratory Data Analysis (EDA) Interactive Dashboard
