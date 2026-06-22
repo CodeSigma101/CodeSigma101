@@ -6,15 +6,11 @@ I am an aspiring Data Analyst and Python Developer passionate about transforming
 
 ## Technical Toolkit
 
-## Technical Toolkit
-
-## Technical Toolkit
-
 * **Languages**: Python (3.x)
 * **Libraries & Core Modules**: Pandas, NumPy, Scikit-Learn, Imbalanced-Learn (SMOTE), Native Standard Libraries
 * **Visualization**: Matplotlib, Seaborn, Plotly Interactive Framework
 * **Core Systems**: Machine Learning Pipelines, Automated Exploratory Ingestion, Vectorized ETL Pipelines, Memory-State Caching
-* **Tools & Platforms**: Anaconda, Jupyter Notebook, Streamlit UI Engine, Streamlit Community Cloud, Git, GitHub
+* **Tools & Platforms**: Anaconda, Jupyter Notebook, Streamlit UI Engine, Streamlit Community Cloud, Git, GitHub , VS Code
 
 ## Featured Data Projects
 ### E-Commerce Revenue Maximization Engine
@@ -48,6 +44,6 @@ An automated visualization dashboard ecosystem built within the Jupyter environm
 
 ## Let's Connect!
 
-- **LinkedIn:** https://linkedin.com
+- **LinkedIn:** https://www.linkedin.com/in/benedict-ekeya-266475200/
 - **GitHub:** https://github.com
 - **Email:** benedictekeya49@gmail.com
