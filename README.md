@@ -20,7 +20,7 @@ An end-to-end classification system and performance evaluation platform engineer
 - **Description:** Designed a machine learning pipeline architecture to ingest skewed financial datasets and extract precise behavioral features indicative of system abuse.
 - **Key Tasks:** Balanced skewed real-world targets using SMOTE oversampling algorithms, deployed tuned Random Forest and Logistic Regression classification models, and validated operational success tracking Precision-Recall Curves (PR-AUC) rather than deceptive baseline accuracy metrics.
 - **Tech Stack:** Python, Scikit-Learn, Imbalanced-Learn (SMOTE), Pandas, NumPy, Jupyter Ecosystem, Git
-- **Links:**https://e--commerce-fraud-detection-pipeline-md85njeqpuce9zmbznafhn.streamlit.app/
+- **Link:** https://e--commerce-fraud-detection-pipeline-md85njeqpuce9zmbznafhn.streamlit.app/
 
 
 ### Exploratory Data Analysis (EDA) Interactive Dashboard
@@ -30,7 +30,7 @@ An automated visualization dashboard ecosystem built within the Jupyter environm
 - **Description:** Developed an automated data visualization engine that eliminates boilerplate exploratory code blocks, tracks data properties, and exposes multi-variable target interactions.
 - **Key Tasks:** Built multivariate matrix distributions to evaluate feature patterns, implemented categorical boxplot layers to isolate outliers across consumer segments, and designed dynamic correlation heatmaps to surface linear multicollinearity before model building.
 - **Tech Stack:** Python, Pandas, NumPy, Seaborn Engine, Matplotlib Vector Layers, Jupyter Workspace, Anaconda
-- **Links:** https://eda-interactive-dashboard-a5sc2dqrxyby2mdtbcz6mp.streamlit.app/ 
+- **Link:** https://eda-interactive-dashboard-a5sc2dqrxyby2mdtbcz6mp.streamlit.app/ 
 
 
 ## Let's Connect!
