@@ -13,6 +13,15 @@ I am an aspiring Data Analyst and Python Developer passionate about transforming
 - **Tools & Platforms:** Anaconda, Jupyter Notebook, Git, GitHub
 
 ## Featured Data Projects
+### E-Commerce Revenue Maximization Engine
+
+An interactive business intelligence application and automated data analytics pipeline built to translate raw retail logs into strategic pricing adjustments and inventory optimization directives.
+
+* **Description**: Engineered an automated ETL data pipeline that sanitizes currency and alphanumeric text structures, processes tokenized product category strings, and isolates commercial performance drivers.
+* **Key Tasks**: Constructed dynamic multi-dimensional charts (including pricing elasticity locator curves and density heatmaps), implemented multi-select sidebar catalog filtering controls, and integrated a conditional file exporter tool.
+* **Tech Stack**: Python, Pandas, NumPy, Plotly Visual Framework, Streamlit Server Engine, Git
+* **Link**: https://executivesalesdashboard-rm6ftciyk7rhdukq5vm5pd.streamlit.app/
+
 ### E-Commerce Fraud Detection Pipeline
 
 An end-to-end classification system and performance evaluation platform engineered to handle massive class imbalances and selectively flag fraudulent transactional interactions.
