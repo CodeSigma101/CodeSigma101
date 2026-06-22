@@ -6,11 +6,13 @@ I am an aspiring Data Analyst and Python Developer passionate about transforming
 
 ## Technical Toolkit
 
-- **Languages:** Python (3.x)
-- **Libraries & Core Modules:** Pandas, NumPy, Scikit-Learn, Imbalanced-Learn (SMOTE), Native Standard Libraries
-- **Visualization:** Matplotlib, Seaborn
-- **Core Systems:** Machine Learning Pipelines, Automated Exploratory Ingestion
-- **Tools & Platforms:** Anaconda, Jupyter Notebook, Git, GitHub
+## Technical Toolkit
+
+* **Languages**: Python (3.x)
+* **Libraries & Core Modules**: Pandas, NumPy, Scikit-Learn, Imbalanced-Learn (SMOTE), Native Standard Libraries
+* **Visualization**: Matplotlib, Seaborn, **Plotly Interactive Framework**
+* **Core Systems**: Machine Learning Pipelines, Automated Exploratory Ingestion, **Vectorized ETL Pipelines, Memory-State Caching**
+* **Tools & Platforms**: Anaconda, Jupyter Notebook, **Streamlit UI Engine, Streamlit Community Cloud**, Git, GitHub
 
 ## Featured Data Projects
 ### E-Commerce Revenue Maximization Engine
