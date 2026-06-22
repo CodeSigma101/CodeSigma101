@@ -1,47 +1,40 @@
-# Hi there, I'm Ekeya Benedict Emomeri (CodeSigma101) 👋
-### Data Analyst & Machine Learning Practitioner
+# Hi, I'm SigmaCode101!
 
-I specialize in building end-to-end analytical pipelines, turning complex data distributions into dynamic visual dashboards, and engineering robust solutions for high-stakes business classification problems.
+## About Me
 
-- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com)
-- ✉️ **Contact:** [benedictekeya49@gmail.com](mailto:benedictekeya49@gmail.com)
-- 🚀 **Core Engine Stack:** Python, SQL, Scikit-Learn, Imbalanced-Learn, Pandas, NumPy, Matplotlib, Seaborn
+I am an aspiring Data Analyst and Python Developer passionate about transforming raw data into actionable insights through visual storytelling. I specialize in building data pipelines, analyzing financial assets, and engineering clean predictive models using the Anaconda ecosystem.
 
----
+## Technical Toolkit
 
-## 🚀 Featured Analytical Projects
+- **Languages:** Python (3.x)
+- **Libraries & Core Modules:** Pandas, NumPy, Scikit-Learn, Imbalanced-Learn (SMOTE), Native Standard Libraries
+- **Visualization:** Matplotlib, Seaborn
+- **Core Systems:** Machine Learning Pipelines, Automated Exploratory Ingestion
+- **Tools & Platforms:** Anaconda, Jupyter Notebook, Git, GitHub
 
-### 📊 1. Exploratory Data Analysis (EDA) Interactive Dashboard
+## Featured Data Projects
+### E-Commerce Fraud Detection Pipeline
+
+An end-to-end classification system and performance evaluation platform engineered to handle massive class imbalances and selectively flag fraudulent transactional interactions.
+
+- **Description:** Designed a machine learning pipeline architecture to ingest skewed financial datasets and extract precise behavioral features indicative of system abuse.
+- **Key Tasks:** Balanced skewed real-world targets using SMOTE oversampling algorithms, deployed tuned Random Forest and Logistic Regression classification models, and validated operational success tracking Precision-Recall Curves (PR-AUC) rather than deceptive baseline accuracy metrics.
+- **Tech Stack:** Python, Scikit-Learn, Imbalanced-Learn (SMOTE), Pandas, NumPy, Jupyter Ecosystem, Git
+- **Links:** [GitHub Repository](https://github.com)
+
+
+### Exploratory Data Analysis (EDA) Interactive Dashboard
+
 An automated visualization dashboard ecosystem built within the Jupyter environment to compress data ingestion phases and run live structural quality audits on raw data files.
 
-*   **The Business Problem:** Manual exploratory analysis introduces boilerplate overhead and delays extracting initial trends, out-of-bounds metrics, or linear anomalies from raw consumer files.
-*   **Dashboard Features & Visualization Mechanics:**
-    *   **Automated Quality Profiling:** Automatically audits structural data shapes, handles data type disparities, and computes null/missing entry distributions.
-    *   **Multivariate Interaction Grids:** Deploys structured matrix distributions and categorical boxplots to reveal outlier ranges across consumer behaviors.
-    *   **Multicollinearity Evaluation:** Programmed dynamic **Seaborn Correlation Heatmaps** combined with feature density curves to isolate inter-variable dependencies prior to modeling.
-*   **Engineering Implementation:** Structured reusable functional wrappers inside code cells to keep dashboard layouts modular and optimized memory consumption within dataframes during large array transformations.
-*   **Tech Stack:** Python, Pandas, NumPy, Seaborn Engine, Matplotlib Vector Layers, Jupyter Workspace, Anaconda
-*   **Repository Link:** 📁 [EDA-Interactive-DashBoard](https://github.com)
+- **Description:** Developed an automated data visualization engine that eliminates boilerplate exploratory code blocks, tracks data properties, and exposes multi-variable target interactions.
+- **Key Tasks:** Built multivariate matrix distributions to evaluate feature patterns, implemented categorical boxplot layers to isolate outliers across consumer segments, and designed dynamic correlation heatmaps to surface linear multicollinearity before model building.
+- **Tech Stack:** Python, Pandas, NumPy, Seaborn Engine, Matplotlib Vector Layers, Jupyter Workspace, Anaconda
+- **Links:** https://eda-interactive-dashboard-a5sc2dqrxyby2mdtbcz6mp.streamlit.app/ 
 
----
 
-### 🛡️ 2. E-Commerce Fraud Detection Pipeline & Performance Platform
-An end-to-end classification system and performance evaluation setup engineered to handle massive class imbalances and flag fraudulent transactional interactions.
+## Let's Connect!
 
-*   **The Business Problem:** E-commerce transactions contain massive target variable skewness where genuine transactions vastly outnumber fraudulent runs, causing standard, unadjusted models to completely misclassify fraud risks.
-*   **Data Architecture & Pipeline Strategy:**
-    *   **Synthetic Minority Oversampling (SMOTE):** Leveraged the `imbalanced-learn` ecosystem to intelligently generate synthetic fraud examples, preventing models from biasing heavily toward majority classes without overfitting.
-    *   **Ensemble Classification Loop:** Deployed and optimized **Random Forest Classifiers** and **Logistic Regression** architectures to maximize classification accuracy.
-*   **Engineering Implementation:** 
-    *   Avoided deceptive standard accuracy scoring by implementing strict verification loops tracking **Precision-Recall Area Under Curve (PR-AUC)** and detailed confusion matrices.
-    *   Extracted tree-based feature importance weights to give stakeholders visibility into the exact biometric or behavioral anomalies that indicate transactional fraud risk.
-*   **Tech Stack:** Python, Scikit-Learn, Imbalanced-Learn (SMOTE), Pandas, NumPy, Jupyter Ecosystem, Git
-*   **Repository Link:** 📁 [E-Commerce-Fraud-Detection-Pipeline](https://github.com)
-
----
-
-## 📈 Real-Time Engineering Insights
-<p align="left">
-  <img src="https://vercel.app" alt="Ekeya's Activity Stats" height="155" />
-  <img src="https://vercel.app" alt="Ekeya's Language Layout" height="155" />
-</p>
+- **LinkedIn:** https://linkedin.com
+- **GitHub:** https://github.com
+- **Email:** benedictekeya49@gmail.com
