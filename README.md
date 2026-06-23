@@ -22,6 +22,15 @@ An interactive business intelligence application and automated data analytics pi
 * **Tech Stack**: Python, Pandas, NumPy, Plotly Visual Framework, Streamlit Server Engine, Git
 * **Link**: https://executivesalesdashboard-rm6ftciyk7rhdukq5vm5pd.streamlit.app/
 
+### Unsupervised Customer Segmentation Analytics Hub
+
+An end-to-end unsupervised learning pipeline and responsive business intelligence application engineered to discover hidden mathematical groupings and behavioral archetypes within retail transaction data.
+
+* **Description**: Engineered an automated data preprocessing and feature generation framework that translates unstructured raw sales records into high-density customer profiles across 20+ behavioral indicators.
+* **Key Tasks**: Applied Principal Component Analysis (PCA) for multi-dimensional feature space compression, mathematically verified optimal partition counts using combined Elbow Method (Inertia) and Silhouette Coefficient criteria, and mapped mathematical clusters into actionable operational consumer personas. Built a responsive web UI featuring dynamic range filtering, interactive spatial 3D cluster projection maps, and customer record dossier directories.
+* **Tech Stack**: Python, Scikit-Learn, Pandas, NumPy, Plotly Express, Streamlit Server Engine, Git
+* **Link**: https://unsupervised-learning-customer-segmentation-dbmhb2euyz6et2mxeb.streamlit.app/
+
 ### E-Commerce Fraud Detection Pipeline
 
 An end-to-end classification system and performance evaluation platform engineered to handle massive class imbalances and selectively flag fraudulent transactional interactions.
