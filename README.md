@@ -20,7 +20,7 @@ An interactive data analytics platform exploring global industrial greenhouse ga
 * **Description:** Engineered a multi-page data analytics system that automates industrial metric aggregation, processes regional baseline tracking data, and monitors company-specific climate target pathways.
 * **Key Tasks:** Implemented complex timeline trend visualizations, designed interactive country comparison groupings using grouping matrices, created an asset-level corporate database search tool, and built an end-to-end data provenance and quality assurance review framework.
 * **Tech Stack:** Python, Pandas, Plotly Express Framework, Streamlit UI Engine, Git, GitHub
-* **Link:** https://streamlit.app
+* **Link:** https://industrial-emissions-intelligence-dashboard-ftlacuene6juwvnhzf.streamlit.app/
 
 ### E-Commerce Revenue Maximization Engine
 
