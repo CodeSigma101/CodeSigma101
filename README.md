@@ -13,6 +13,15 @@ I am an aspiring Data Analyst and Python Developer passionate about transforming
 * **Tools & Platforms**: Anaconda, Jupyter Notebook, Streamlit UI Engine, Streamlit Community Cloud, Git, GitHub , VS Code
 
 ## Featured Data Projects
+### Industrial Emissions Intelligence Dashboard
+
+An interactive data analytics platform exploring global industrial greenhouse gas emissions trends to identify priority actions for industrial decarbonisation and monitor corporate target accountability in the steel sector.
+
+* **Description:** Engineered a multi-page data analytics system that automates industrial metric aggregation, processes regional baseline tracking data, and monitors company-specific climate target pathways.
+* **Key Tasks:** Implemented complex timeline trend visualizations, designed interactive country comparison groupings using grouping matrices, created an asset-level corporate database search tool, and built an end-to-end data provenance and quality assurance review framework.
+* **Tech Stack:** Python, Pandas, Plotly Express Framework, Streamlit UI Engine, Git, GitHub
+* **Link:** https://streamlit.app
+
 ### E-Commerce Revenue Maximization Engine
 
 An interactive business intelligence application and automated data analytics pipeline built to translate raw retail logs into strategic pricing adjustments and inventory optimization directives.
